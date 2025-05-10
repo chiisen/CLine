@@ -1,8 +1,22 @@
 # CLine
 CLine 進階實戰開發
 
+## Custom Instructions(自訂義指令)
+![Custom Instructions](./images/CLine_Custom_Instructions.png)
+全域的自定義指令，每次發問會自動合併到上下文中。  
+範例如下:  
+```md!
+Always write comments in Chinese for each function
+Where writing JavaScript, prefer function programming paradigms over object-oriented approaches where appropriate
+```
+翻譯成中文:
+```md!
+務必為每個函數寫上中文註釋
+在編寫 JavaScript 時，在適當的情況下優先使用函數程式設計範式而不是物件導向的方法
+```
+
 ## .clinerules
-目錄下的個別專案 CLine 所使用的 Rules 設定
+目錄下的個別專案 CLine 所使用的 Rules 設定(.clinerules 是一個檔案名時)  
 ```md!
 ## 文檔搜索
 
@@ -21,6 +35,8 @@ use context7 搜索 Next.js 穩定版關於路由功能的文檔
 use context7 搜索 Tailwind CSS 最新版關於響應式設計的文檔
 ```
 ## .clinerules Folder
+目錄下的個別專案 CLine 所使用的 Rules 設定  
+(.clinerules 是一個目錄名時，目錄裡面允許多個設定檔案)  
 ### 01-tech-stack.md
 [01-tech-stack.md](./.clinerules/01-tech-stack.md)
 
