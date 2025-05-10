@@ -1,5 +1,5 @@
 # CLine
-CLine 進階實戰開發
+CLine 進階實戰開發  
 
 ---
 
@@ -26,7 +26,7 @@ CLine 透過 .clinerules 自定義指令，並附上多個範例文件。
 ```
 
 ## Custom Instructions(自訂義指令)
-![Custom Instructions](./images/CLine_Custom_Instructions.png)
+![Custom Instructions](./images/CLine_Custom_Instructions.png)  
 全域的自定義指令，每次發問會自動合併到上下文中。  
 範例如下:  
 ```md!
