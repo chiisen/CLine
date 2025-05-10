@@ -1,6 +1,26 @@
 # CLine
 CLine 進階實戰開發
 
+# 開發 prompt 範例
+
+```md!
+1. When writing JavaScript, prefer functional programming paradigms over object-oriented approaches where appropriate.
+2. When generating documentation, always use Markdown format with clear headings and code blocks.
+3. Ensure that all new components follow a microservices architecture and communicate via REST APIs.
+4. When generating code that might throw exceptions, always include try-catch blocks and log the errors with descriptive messages.
+5. For database operations, use the Postgres MCP server with credentials stored in 1Password under ‘Development > Database’.
+6. Always provide the full code implementation without omitting any parts. Ensure the code is complete.
+```
+翻譯為中文:
+```md!
+1. 編寫 JavaScript 時，在適當的情況下優先使用函數式程式設計範例而不是物件導向的方法。
+2. 產生文件時，請務必使用 Markdown 格式，並帶有清晰的標題和程式碼區塊。
+3.確保所有新元件遵循微服務架構並透過 REST API 進行通訊。
+4. 產生可能引發異常的程式碼時，請務必包含 try-catch 區塊並使用描述性訊息記錄錯誤。
+5. 對於資料庫操作，請使用 Postgres MCP 伺服器，其憑證儲存在 1Password 的「開發 > 資料庫」下。
+6. 始終提供完整的程式碼實現，不遺漏任何部分。確保代碼完整。
+```
+
 ## Custom Instructions(自訂義指令)
 ![Custom Instructions](./images/CLine_Custom_Instructions.png)
 全域的自定義指令，每次發問會自動合併到上下文中。  
