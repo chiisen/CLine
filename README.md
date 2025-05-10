@@ -1,6 +1,10 @@
 # CLine
 CLine 進階實戰開發
 
+---
+
+CLine 透過 .clinerules 自定義指令，並附上多個範例文件。  
+
 # 開發 prompt 範例
 
 ```md!
