@@ -1,3 +1,5 @@
+# 專案結構
+
 - **React 組件**:
     - 使用 **Next.js App Router** 時，頁面組件應位於 `/src/app` 目錄下的相應路由文件夾中。
     - 可重用的 React 組件應放置在 `/src/components` 目錄下，並按照功能或模塊進行組織（例如，`/src/components/ui`，`/src/components/features/vocabulary`）。

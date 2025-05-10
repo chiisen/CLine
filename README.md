@@ -62,24 +62,24 @@ use context7 搜索 Tailwind CSS 最新版關於響應式設計的文檔
 ## .clinerules Folder
 目錄下的個別專案 CLine 所使用的 Rules 設定  
 (.clinerules 是一個目錄名時，目錄裡面允許多個設定檔案)  
-### 01-tech-stack.md
+### 01-tech-stack.md 【技術偏好】
 [01-tech-stack.md](./.clinerules/01-tech-stack.md)
 
-### 02-project-structure.md
+### 02-project-structure.md 【專案結構】
 [02-project-structure.md](./.clinerules/02-project-structure.md)
 
-### 03-code-style.md
+### 03-code-style.md 【代碼風格和模式】
 [03-code-style.md](./.clinerules/03-code-style.md)
 
-### 04-styling.md
+### 04-styling.md 【樣式指南】
 [04-styling.md](./.clinerules/04-styling.md)
 
-### 05-ollama-config.md
+### 05-ollama-config.md 【Ollama 配置】
 [05-ollama-config.md](./.clinerules/05-ollama-config.md)
 
-### 06-app-logic.md
+### 06-app-logic.md 【應用核心邏輯】
 [06-app-logic.md](./.clinerules/06-app-logic.md)
 
 
-### 07-important-files.md
+### 07-important-files.md 【重要文件位置（請勿修改）】
 [07-important-files.md](./.clinerules/07-important-files.md)
