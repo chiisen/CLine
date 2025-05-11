@@ -1,5 +1,5 @@
 # CLine
-CLine 進階實戰開發  
+CLine 進階實戰開發【CLine 是一款專為 VSCode 編輯器設計的免費 AI 程式輔助外掛，結合多種大型語言模型（LLM），提供全方位的程式開發自動化與智慧協作能力】  
 ![Custom Instructions](./images/CLineRules.png)  
 
 ---
